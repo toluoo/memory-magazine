@@ -1,0 +1,51 @@
+#rec1{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 333px;
+  height: 452px;
+  left: 81px;
+  top: 168px;
+
+  background: #FFFFFF;
+  border: 9px solid #9C89B8;
+}
+
+#rec2{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 529px;
+  height: 452px;
+  left: 191px;
+  top: 509px;
+
+  background: #FFFFFF;
+  border: 9px solid #F0A6CA;
+}
+
+#rec3{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 584px;
+  height: 452px;
+  left: 660px;
+  top: 168px;
+
+  background: #FFFFFF;
+  border: 9px solid #F0E6EF;
+}
+
+#rec4{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 523px;
+  height: 504px;
+  left: 866px;
+  top: 464px;
+
+  background: #FFFFFF;
+  border: 9px solid #B8BEDD;
+}
